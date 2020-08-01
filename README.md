@@ -20,7 +20,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Guide for Salesforce Metadata Testing](https://medium.com/swlh/guide-for-salesforce-metadata-testing-6b9013afe43d?source=rss-998376a3c59a------2)
 - [Reporting Dashboard for Serverless Test Framework](https://medium.com/javascript-in-plain-english/reporting-dashboard-for-serverless-test-framework-36dd46bf54da?source=rss-998376a3c59a------2)
 - [Testing Microsoft SQL Server with JavaScript](https://medium.com/javascript-in-plain-english/testing-microsoft-sql-server-database-using-javascript-6b5337e4a151?source=rss-998376a3c59a------2)
