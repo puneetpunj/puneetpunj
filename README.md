@@ -11,4 +11,11 @@
 
 [<img align="left" alt="puneetpunj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [linkedin]: https://www.linkedin.com/in/puneet-punj-01365961
