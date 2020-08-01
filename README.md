@@ -28,6 +28,9 @@
 - [Testing Microsoft SQL Server with JavaScript](https://medium.com/javascript-in-plain-english/testing-microsoft-sql-server-database-using-javascript-6b5337e4a151?source=rss-998376a3c59a------2)
 - [Introduction to Programmatic Testing with Mocha](https://medium.com/javascript-in-plain-english/introduction-to-programmatic-approach-to-mocha-testing-framework-e10d1947148e?source=rss-998376a3c59a------2)
 - [How to get up and running with Cypress](https://medium.com/javascript-in-plain-english/cypress-setup-boiler-plate-1eb566502bb6?source=rss-998376a3c59a------2)
+- [Build Alexa Skill To Trigger Automated Tests](https://medium.com/swlh/build-alexa-skill-to-trigger-automated-tests-7550e649973a?source=rss-998376a3c59a------2)
+- [Use the Serverless Framework to Test AWS Microservices](https://medium.com/better-programming/serverless-framework-to-test-aws-microservices-575cbbc0823?source=rss-998376a3c59a------2)
+- [How to compare huge CSV files in JavaScript](https://medium.com/javascript-in-plain-english/how-to-compare-csv-files-with-millions-records-using-javascript-a2654a88c376?source=rss-998376a3c59a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
