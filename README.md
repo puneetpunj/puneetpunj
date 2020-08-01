@@ -11,6 +11,8 @@
 
 [<img align="left" alt="puneetpunj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="puneetpunj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 <br />
 
 ---
@@ -36,3 +38,4 @@
 <img align="left" alt="puneetpunj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=puneetpunj&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=gruvbox" />
 
 [linkedin]: https://www.linkedin.com/in/puneet-punj-01365961
+[medium]: https://medium.com/feed/@punjpuneet
