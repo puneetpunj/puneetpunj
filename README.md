@@ -1,9 +1,9 @@
 ### Hi there 👋 I 'm Puneet !!!
 
-- 🔭 I’m currently working on building e2e automation testing framework and mocking services
-- 🌱 I’m currently learning learning how to implement best testing practices for microservices architecture
-- 👯 2020 Goals - I want to write more content on web related to automation testing
-- 💬 Ask me about anything related to automation testing
+- 🔭 I’m currently working on building CICD pipelines for AWS infrastrucutre using Buildkite and Terraform. 
+- 🌱 I’m currently learning new things about AWS and DevOps in general 
+- 👯 2023 Goals - to attain more AWS certifications
+- 💬 Ask me about anything related to devops
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play cricket and squash
 
