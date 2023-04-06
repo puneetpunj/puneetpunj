@@ -37,4 +37,4 @@
 <img align="left" alt="puneetpunj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=puneetpunj&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=gruvbox" />
 
 [linkedin]: https://www.linkedin.com/in/puneet-punj-01365961
-[medium]: https://medium.com/feed/@punjpuneet
+[medium]: https://medium.com/@punjpuneet
